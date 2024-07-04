@@ -41,11 +41,14 @@ section:nth-of-type(7){
     background-image: linear-gradient(black 33%, red 33%, red 67%, gold 67%);
 }
 section:nth-of-type(8){
-    background-image:url("./star.png"), linear-gradient(red 33%, yellow 33%, yellow 67%, green 67%);
+    background-image:url("./star.png"), linear-gradient(red 33%, gold 33%, gold 67%, green 67%);
     background-repeat: no-repeat;
     background-position: center;
 }
 section:last-of-type{
     background: red;
-    background-image: url()
+
+    background-image: url(./yellowstar.png), url(./smallstar\ \(1\).png), url(./smallstar\ \(2\).png), url(./smallstar\ \(3\).png), url(./smallstar\ \(4\).png);
+    background-repeat: no-repeat;
+    background-position: 60px 60px, 140px 30px, 160px 70px, 160px 110px, 140px 150px;
 }
