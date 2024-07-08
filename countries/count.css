@@ -86,7 +86,13 @@ section:nth-of-type(9){
     url(./smallstar\ \(3\).png), 
     url(./smallstar\ \(4\).png);
     background-repeat: no-repeat;
-    background-position: 60px 60px, 140px 30px, 160px 70px, 160px 110px, 140px 150px;
+    
+    background-position: 
+    60px 60px, 
+    140px 30px, 
+    160px 70px, 
+    160px 110px, 
+    140px 150px;
 
     
 } */
